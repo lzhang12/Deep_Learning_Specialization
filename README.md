@@ -1,13 +1,13 @@
 # Deep_Learning_Specialization
 This is a repo to store the programming notebooks and my notes of the 5-course deep learning specialization on Coursera.
 
-#### File Structure
+### File Structure
 
 * `notes`: my personal notes and summaries of the coursera
 * `resources`: some external files that might be help in understanding certain points in the course.
 * `certificates`: my personal course certificates from Coursera.
 
-#### Notice
+### Notice
 
 **Some large files are not in the repo**:
 
@@ -20,6 +20,6 @@ This is a repo to store the programming notebooks and my notes of the 5-course d
 
 **Please follow the [Coursera honor code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code) and use this repo properly.** 
 
-#### Next
+### Next
 
 - notes on course 3, 4, 5
